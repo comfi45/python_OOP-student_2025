@@ -128,7 +128,7 @@ elif d == "2":
    print(a * b * c)
    
    
- 
+
 
 a = int(input("Введите первое число: "))
 b = int(input("Введите второе число: "))
@@ -140,6 +140,7 @@ elif d == "2":
    print(min(a, b, c))
 elif d == "3":
    print((a + b + c) / 3)
+
 
 
 

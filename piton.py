@@ -106,3 +106,13 @@ if choice == 2:
        print (metr * 39,37, "дюймов")
 if choice == 3:
        print (metr * 1.09, "ярдов")
+
+       a = int(input("введите число от 1 до 100"))
+       if a == 1 - 100:
+              if a % 3 - - 0:
+                     a1 % 5 - - 0:
+                     print("fizz")
+       elif a % 5 - - 0:
+              print("buzz")
+       else:
+              print(a)
